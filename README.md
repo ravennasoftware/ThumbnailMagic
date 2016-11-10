@@ -13,7 +13,7 @@ Generate thumbnail from file path.
 Generate thumbnail from URI.
 Generate thumbnail from byte[].
 You specify the output size and the code will crop accordingly.
-Aspec ratio maintained.
+<b>Aspec ratio maintained.</b>
 Extension methods are able to save to jpg, png, byte[] and .Net Image formats.
 
 
