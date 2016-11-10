@@ -5,7 +5,7 @@ Thumbnail Magic /
 
 Your users have photos of all shapes and sizes. This library will generate perfect, consistantly sized thumbnails (you pick the size), no mattter what size photo is submitted. This binary for .Net 4.5 to make image thumbnails that maintain aspect ratio. This library yields quality, uniformly sized thumbnails can be made from images of many sizes. Extension methods are built in to convert the common result (byte[]) into PNG/JPG/System.Drawing.Image. A test project is included with functional tests showing library usage.
 
-[link](http://www.ravennasoftware.com/thumbnail-magic.aspx){:target="_blank"}
+[http://www.ravennasoftware.com/thumbnail-magic.aspx](http://www.ravennasoftware.com/thumbnail-magic.aspx)
 
 Why am I great?
 
